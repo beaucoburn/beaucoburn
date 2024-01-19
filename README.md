@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beaucoburn
-- 👀 I’m interested in Web Development, specifically FrontEnd Development.
-- 🌱 I’m currently focused on React and Next.js, but soon looking to learn Python and SQL.
+- 👀 I’m of course focused on Software Development in general. While I've spent some time focused on React, NextJS and Tailwind specifically, I really want to build the skills to be more competent as fullstack developer.
+- 🌱 I’m currently focused on Python and SQL.
 - 📫 hello@beaucoburn.com
 
 <!---
