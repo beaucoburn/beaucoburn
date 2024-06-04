@@ -18,7 +18,9 @@
     </a>
 </div>
 
-
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beaucoburn&theme=github_dark" alt="Beau Coburn's GitHub Stats"/>
+</div>
 
 - 👋 Hi, I’m @beaucoburn
 - 👀 I’m of course focused on Software Development in general. While I've spent some time focused on React, NextJS and Tailwind specifically, I really want to build the skills to be more competent as fullstack developer.
