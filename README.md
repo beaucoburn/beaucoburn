@@ -29,7 +29,7 @@
     <h2>My Libraries and Frameworks</h2>
     <p>In the beginning we could get by with just the basics of HTML, CSS and Javascript, but now our world in frameworks and libraries.  I'm primarily a React Developer and lately I've been using a lot of NextJS.  Of course like everyone, I've used a lot of Bootstrap, but I've also used Chakra and now I'm starting to use Shadcn.  I've also of course experimented with some Django as well.</p>
 </div>
-
+<br>
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beaucoburn&theme=github_dark" alt="Beau Coburn's GitHub Stats"/>
 </div>
