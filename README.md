@@ -17,15 +17,23 @@
         <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logoColor=white" alt="Portfolio"/>
     </a>
 </div>
-
+<div align="center">
+    <h2>My Languages</h2>
+    <p></p>
+</div>
+<div align="center">
+    <h2>My Libraries and Frameworks</h2>
+    <p></p>
+</div>
+<div align="center">
+  <h2>🚀 Github Commits</h2>
+    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
+  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+</div>
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beaucoburn&theme=github_dark" alt="Beau Coburn's GitHub Stats"/>
 </div>
-
-- 👋 Hi, I’m @beaucoburn
-- 👀 I’m of course focused on Software Development in general. While I've spent some time focused on React, NextJS and Tailwind specifically, I really want to build the skills to be more competent as fullstack developer.
-- 🌱 I’m currently focused on Python and SQL.
-- 📫 hello@beaucoburn.com
 
 <!---
 beaucoburn/beaucoburn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
