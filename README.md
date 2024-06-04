@@ -11,7 +11,7 @@
     <h2>📫 Connect With Me</h2>
     <p>It is very easy to find me on LinkedIn or my <a href="https://www.beaucoburn.com">Portfolio</a>. Please feel free to connect with me to collaborate, discuss ideas or for any job opportunities.</p>
     <a href="https://www.linkedin.com/in/beau-coburn/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        <img src="https://img.shields.io/badge/BeauCoburn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
 
