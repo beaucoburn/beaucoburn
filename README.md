@@ -13,6 +13,9 @@
     <a href="https://www.linkedin.com/in/beau-coburn/">
         <img src="https://img.shields.io/badge/BeauCoburn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
+    <a href="https://www.beaucoburn.com">
+        <img src="https://img.shields.io/badge/My+Portfolio-FF5733?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+    </a>
 </div>
 
 
