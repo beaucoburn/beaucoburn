@@ -3,6 +3,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hi..;I'm+Beau+Coburn;This+is..;..my+Github..;" alt="Typing SVG"/>
     </h1>
 </div>
+<br>
 <div align="center">
     <h2>👋 About Me</h2>
     <p>I'm a Frontend Developer specializing in React. I enjoy hiking, snorkeling and movies.</p>
@@ -23,7 +24,7 @@
 </div>
 <div align="center">
     <h2>My Libraries and Frameworks</h2>
-    <p></p>
+    <p>In the beginning we could get by with just the basics of HTML, CSS and Javascript, but now our world in frameworks and libraries.  I'm primarily a React Developer and lately I've been using a lot of NextJS.  Of course like everyone, I've used a lot of Bootstrap, but I've also used Chakra and now I'm starting to use Shadcn.  I've also of course experimented with some Django as well.</p>
 </div>
 
 <div align="center">
