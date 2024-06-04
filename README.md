@@ -9,12 +9,12 @@
 </div>
 <div align="center">
     <h2>📫 Connect With Me</h2>
-    <p>It is very easy to find me on LinkedIn or my <a href="https://www.beaucoburn.com">Portfolio</a>. Please feel free to connect with me to collaborate, discuss ideas or for any job opportunities.</p>
+    <p>It is very easy to find me on LinkedIn or my <a href="https://www.beaucoburn.com">Portfolio</a>, or just send me an email at hello@beaucoburn.com. Please feel free to connect with me to collaborate, discuss ideas or for any job opportunities.</p>
     <a href="https://www.linkedin.com/in/beau-coburn/">
         <img src="https://img.shields.io/badge/BeauCoburn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://www.beaucoburn.com">
-        <img src="https://img.shields.io/badge/My+Portfolio-FF5733?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+        <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logoColor=white" alt="Portfolio"/>
     </a>
 </div>
 
