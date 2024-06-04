@@ -4,8 +4,21 @@
     </h1>
 </div>
 <div align="center">
-    <h2>🚀 About Me</h2>
+    <h2>👋 About Me</h2>
     <p>I'm a Frontend Developer specializing in React. I enjoy hiking, snorkeling and movies.</p>
+</div>
+<div align="center">
+    <h2> Connect With Me</h2>
+    <p></p>
+    <a href="https://www.linkedin.com/in/beau-coburn/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+</div>
+
+
+<div align="center">
+    <h2>🚀 GitHub Commits</h2>
+    <img src="https://raw.githubusercontent.com/beaucoburn/beaucoburn/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 
 - 👋 Hi, I’m @beaucoburn
