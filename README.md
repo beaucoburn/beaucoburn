@@ -22,7 +22,7 @@
 <br>
 <div align="center">
     <h2>My Languages</h2>
-    <p>As a Frontend Developer, of course I'm focused on HTML, CSS and Javascript.  Lately, I've been trying to learn other things too, like Python, SQL and Typescript</p>
+    <p>As a Frontend Developer, of course I'm focused on HTML, CSS and Typescript.  Lately, I've been trying to learn other things too, like Go, Java and React Native.</p>
 </div>
 <br>
 <div align="center">
