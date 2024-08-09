@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/badge/BeauCoburn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://x.com/BeauCoburn">
-        <img src="https://img.shields.io/badge/BeauCoburn-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+        <img src="https://img.shields.io/badge/@BeauCoburn-555555?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
     </a>
     <a href="https://www.beaucoburn.com">
         <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logoColor=white" alt="Portfolio"/>
