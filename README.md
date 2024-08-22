@@ -11,7 +11,7 @@
 <br>
 <div align="center">
     <h2>📫 Connect With Me</h2>
-    <p>It is very easy to find me on LinkedIn or my <a href="https://www.beaucoburn.com">Portfolio</a>, or just send me an email at hello@beaucoburn.com. Please feel free to connect with me to collaborate, discuss ideas or for any job opportunities.</p>
+    <p>It is very easy to find me on <a href="https://www.linkedin.com/in/beau-coburn/">LinkedIn</a> or my <a href="https://www.beaucoburn.com">Portfolio</a>, or just send me an email at hello@beaucoburn.com. Please feel free to connect with me to collaborate, discuss ideas or for any job opportunities.</p>
     <a href="https://dev.to/beaucoburn">
         <img src="https://img.shields.io/badge/BeauCoburn-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
     </a>
