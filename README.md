@@ -27,12 +27,12 @@
 </div>
 <br>
 <div align="center">
-    <h2>My Languages</h2>
+    <h2>🗣️ My Languages</h2>
     <p>As a Frontend Developer, of course I'm focused on HTML, CSS, Typescript and ReactJS.  Lately, I've been trying to learn other things too, like Go, Java and React Native.</p>
 </div>
 <br>
 <div align="center">
-    <h2>My Libraries and Frameworks</h2>
+    <h2>📚📖 My Libraries and Frameworks</h2>
     <p>In the beginning we could get by with just the basics of HTML, CSS and Javascript, but now our world in frameworks and libraries.  I'm primarily a React Developer and lately I've been using a lot of NextJS.  Of course like everyone, I've used a lot of Bootstrap, but I've also used Chakra and now I'm starting to use Shadcn.  In this current chapter, I am starting to think even more about the backend and also deeper Computer Science.  Always on the journey and hopefully always growing.</p>
 </div>
 <br>
