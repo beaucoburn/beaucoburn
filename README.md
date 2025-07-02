@@ -40,6 +40,9 @@
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beaucoburn&theme=github_dark" alt="Beau Coburn's GitHub Stats"/>
 </div>
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/8ceac88a-dc61-4de1-9fd1-434aca2586b7/thumbnail" >
+</p>
 
 <!---
 beaucoburn/beaucoburn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
